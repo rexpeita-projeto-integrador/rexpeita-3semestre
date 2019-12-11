@@ -26,6 +26,6 @@ var_dump($_SESSION);
 echo '</pre>';
 ?>
 
-
+<a href="myaccountadm"><button class="btn btn-danger">Ir para a página de ADM</button></a>
     
 </body>

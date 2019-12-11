@@ -24,3 +24,5 @@ if($num == 1) {
 }
     
 ?>
+
+<a href="myaccount"><button class="btn btn-danger">Ir para minha Conta</button></a>

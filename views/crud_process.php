@@ -113,3 +113,6 @@ if (isset($_POST['atualizar'])) {
     header('location: crud');
 
 }
+?>
+
+<a href="crud"><button class="btn btn-danger">Ir para o CRUD</button></a>
